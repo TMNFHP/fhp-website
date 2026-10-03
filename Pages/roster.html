@@ -110,10 +110,13 @@
 
 /* Rank Insignia */
 .insignia {
-    width: 36px;
+    width: 48px;
     height: 36px;
     padding: 2px;
     object-fit: contain;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 /* Mobile Hide Insignia */
@@ -208,7 +211,7 @@ async function loadRoster() {
 
     function categorize(id) {
         id = parseInt(id);
-        if (id >= 2201 && id <= 2204) return "Troop Headquarters";
+        if (id >= 2200 && id <= 2204) return "Troop Headquarters";
         if (id >= 2205 && id <= 2208) return "District Command Staff";
         if (id >= 2209 && id <= 2224) return "District Supervisors";
         if (id >= 2225 && id <= 2235) return "Investigators";
@@ -251,6 +254,7 @@ async function loadRoster() {
     data.sort((a,b) => parseInt(a.identifier) - parseInt(b.identifier));
 
     const RANK_MAP = {
+        "Colonel": "colonel.png",
         "Captain": "captain.png",
         "Corporal": "corporal.png",
         "Lieutenant": "luitenant.png",

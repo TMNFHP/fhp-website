@@ -2,83 +2,83 @@
 
     "troopHeadquarters": [
     {
-      "name": "Colonel, Wes Howard",
-      "rank": "Florida Highway Patrol",
-      "callsign":"2200",
-      "phone": "(754) 690-9454",
-      "email": "w.howard@flhsmv.gov",
-      "photo": "../assets/staff/silhouette-placeholder.png",
-      "counties": "Broward | Palm Beach | Miami",
-      "instagram": "#directorfhp",
-      "x": "#fhpadmin"
-    },
-    {
-      "name": "Major, Jonathon Dulaney",
+      "name": "Major, Skyler Erwin",
       "rank": "Troop Commander",
-      "callsign":"2201",
+      "callsign":"1201",
       "phone": "(786) 158-8164",
-      "email": "j.dulaney@flhsmv.gov",
+      "email": "s.erwin@flhsmv.gov",
       "photo": "../assets/staff/dulaney.png",
-      "counties": "Broward | Palm Beach | Miami",
+      "counties": "Manatee | Sarasota | Hardee",
       "instagram": "#directorfhp",
       "x": "#fhpadmin"
     },
     {
-      "name": "Captain, Gavin Wood",
-      "rank": "Director of Patrol Operations",
-      "callsign":"2202",
+      "name": "Captain, Rick LeBlanc",
+      "rank": "Northern Region District Commander",
+      "callsign":"1202",
       "phone": "(305) 647-9994",
-      "email": "g.wood@flhsmv.gov",
+      "email": "r.leblanc@flhsmv.gov",
       "photo": "../assets/staff/silhouette-placeholder.png",
-      "counties": "Broward | Palm Beach | Miami",
+      "counties": "Manatee | Sarasota | Hardee",
       "instagram": "#directorfhp",
       "x": "#fhpadmin"
+    },
+    {
+      "name": "Captain, Ryan Collins",
+      "rank": "Special Operations Commander",
+      "callsign":"1203",
+      "phone": "(000) 000-0000",
+      "email": "r.collins@flhsmv.gov",
+      "photo": "../assets/staff/silhouette-placeholder.png",
+      "counties": "Manatee | Sarasota | Hardee",
+      "instagram": "#",
+      "x": "#"
     }
   ],
 
   "districtCommandStaff": [
 
+        {
+      "name": "Lieutenant, Jakis Woodz",
+      "rank": "District Executive Officer",
+      "callsign":"1204",
+      "phone": "(000) 000-0000",
+      "email": "@flhsmv.gov",
+      "photo": "../assets/staff/silhouette-placeholder.png",
+      "counties": "Manatee | Sarasota | Hardee",
+      "instagram": "#",
+      "x": "#"
+    },
     {
-      "name": "VACANT",
+      "name": "Lieutenant, James Booth",
       "rank": "Special Operations District Lieutenant",
-      "callsign":"2205",
+      "callsign":"1205",
       "phone": "(000) 000-0000",
-      "email": "@flhsmv.gov",
+      "email": "j.booth@flhsmv.gov",
       "photo": "../assets/staff/silhouette-placeholder.png",
-      "counties": "Broward | Palm Beach | Miami",
+      "counties": "Manatee | Sarasota | Hardee",
+      "instagram": "#",
+      "x": "#"
+    },
+        {
+      "name": "Lieutenant, John Langley",
+      "rank": "Office of Professional Compliance",
+      "callsign":"1206",
+      "phone": "(000) 000-0000",
+      "email": "t.swanson@flhsmv.gov",
+      "photo": "../assets/staff/silhouette-placeholder.png",
+      "counties": "Manatee | Sarasota | Hardee",
       "instagram": "#",
       "x": "#"
     },
     {
-      "name": "VACANT",
+      "name": "Lieutenant, Tyler Swanson",
       "rank": "Chief Training Officer",
-      "callsign":"2206",
+      "callsign":"1207",
       "phone": "(000) 000-0000",
-      "email": "@flhsmv.gov",
+      "email": "t.swanson@flhsmv.gov",
       "photo": "../assets/staff/silhouette-placeholder.png",
-      "counties": "Broward | Palm Beach | Miami",
-      "instagram": "#",
-      "x": "#"
-    },
-    {
-      "name": "VACANT",
-      "rank": "Patrol Operations Lieutenant",
-      "callsign":"2207",
-      "phone": "(000) 000-0000",
-      "email": "@flhsmv.gov",
-      "photo": "../assets/staff/silhouette-placeholder.png",
-      "counties": "Broward | Palm Beach | Miami",
-      "instagram": "#",
-      "x": "#"
-    },
-    {
-      "name": "VACANT",
-      "rank": "Sergeant of Patrol",
-      "callsign":"2208",
-      "phone": "(000) 000-0000",
-      "email": "@flhsmv.gov",
-      "photo": "../assets/staff/silhouette-placeholder.png",
-      "counties": "Broward | Palm Beach | Miami",
+      "counties": "Manatee | Sarasota | Hardee",
       "instagram": "#",
       "x": "#"
     }
@@ -88,57 +88,57 @@
 
   "districtSupervisorTeam": [
     {
-      "name": "Sergeant First Class, Moatsi King",
-      "rank": "Criminal Investigations and Intelligence Commander",
-      "callsign":"2211",
-      "phone": "(954) 088-2084",
-      "email": "m.king@flhsmv.gov",
-      "photo": "../assets/staff/silhouette-placeholder.png",
-      "counties": "Broward | Palm Beach | Miami",
-      "instagram": "#",
-      "x": "#"
-    },
-        {
-      "name": "Sergeant, Brayden James",
-      "rank": "Criminal Interdiction Unit Commander",
-      "callsign":"2218",
-      "phone": "(754) 548-2534",
-      "email": "b.james@flhsmv.gov",
-      "photo": "../assets/staff/silhouette-placeholder.png",
-      "counties": "Broward | Palm Beach | Miami",
-      "instagram": "#",
-      "x": "#"
-    },
-        {
-      "name": "Sergeant, Zach Kenway",
-      "rank": "Commercial Vehicle Enforcement Unit Commander",
-      "callsign":"2219",
-      "phone": "(786) 965-9245",
-      "email": "z.kenway@flhsmv.gov",
-      "photo": "../assets/staff/silhouette-placeholder.png",
-      "counties": "Broward | Palm Beach | Miami",
-      "instagram": "#",
-      "x": "#"
-    },
-        {
-      "name": "Sergeant, Brandon Hayes",
-      "rank": "Patrol Operations Sergeant",
-      "callsign":"2220",
-      "phone": "(754) 839-6746",
-      "email": "b.hayes@flhsmv.gov",
-      "photo": "../assets/staff/silhouette-placeholder.png",
-      "counties": "Broward | Palm Beach | Miami",
-      "instagram": "#",
-      "x": "#"
-    },
-        {
-      "name": "Sergeant, Damian Proulx",
-      "rank": "Patrol Operations Sergeant",
-      "callsign":"2222",
+      "name": "VACANT",
+      "rank": "Patrol Operations Supervisor",
+      "callsign":"",
       "phone": "(954) 069-5827",
-      "email": "d.proulx@flhsmv.gov",
+      "email": "@flhsmv.gov",
       "photo": "../assets/staff/silhouette-placeholder.png",
-      "counties": "Broward | Palm Beach | Miami",
+      "counties": "Manatee | Sarasota | Hardee",
+      "instagram": "#",
+      "x": "#"
+    },
+        {
+      "name": "VACANT",
+      "rank": "Patrol Operations Supervisor",
+      "callsign":"",
+      "phone": "(954) 069-5827",
+      "email": "@flhsmv.gov",
+      "photo": "../assets/staff/silhouette-placeholder.png",
+      "counties": "Manatee | Sarasota | Hardee",
+      "instagram": "#",
+      "x": "#"
+    },
+        {
+      "name": "VACANT",
+      "rank": "Patrol Operations Supervisor",
+      "callsign":"",
+      "phone": "(954) 069-5827",
+      "email": "@flhsmv.gov",
+      "photo": "../assets/staff/silhouette-placeholder.png",
+      "counties": "Manatee | Sarasota | Hardee",
+      "instagram": "#",
+      "x": "#"
+    },
+        {
+      "name": "VACANT",
+      "rank": "Patrol Operations Supervisor",
+      "callsign":"",
+      "phone": "(954) 069-5827",
+      "email": "@flhsmv.gov",
+      "photo": "../assets/staff/silhouette-placeholder.png",
+      "counties": "Manatee | Sarasota | Hardee",
+      "instagram": "#",
+      "x": "#"
+    },
+        {
+      "name": "VACANT",
+      "rank": "Patrol Operations Supervisor",
+      "callsign":"",
+      "phone": "(954) 069-5827",
+      "email": "@flhsmv.gov",
+      "photo": "../assets/staff/silhouette-placeholder.png",
+      "counties": "Manatee | Sarasota | Hardee",
       "instagram": "#",
       "x": "#"
     }
